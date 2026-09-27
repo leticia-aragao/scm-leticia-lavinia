@@ -2,6 +2,8 @@
 
 Repositório modelo para a prática de **Git e GitHub** em duplas: commit, push, pull, conflitos, branches, Pull Request e merge.
 
+oi - teste
+
 ---
 
 ## O projeto
